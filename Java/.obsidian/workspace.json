@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "7351319e03edc2f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a346abb6c1803706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "818637f6e11d3697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Estudos Java Rasmoo/7 - Condicionais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 - Condicionais"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81898dfff1593231",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7baa9b2d4b34dbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37b94e268f823f37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de ficheiros"
+            }
+          },
+          {
+            "id": "9e1d86624e50a1a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Lógicos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "322893cdc4bac6a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5
+  },
+  "right": {
+    "id": "01f95ff898e6cb40",
+    "type": "split",
+    "children": [
+      {
+        "id": "c22ae77e17b314c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dbb9c45db994f37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operadores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks para Operadores"
+            }
+          },
+          {
+            "id": "980d86e87d15610c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operadores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links externos de Operadores"
+            }
+          },
+          {
+            "id": "b470dd11375bab39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e966a1911e0d7b33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operadores.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Índice de Operadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false
+    }
+  },
+  "active": "37b94e268f823f37",
+  "lastOpenFiles": [
+    "6 - Casting Conversão.md",
+    "0 - Estudos Java Rasmoo/7 - Condicionais.md",
+    "Atalhos Intellij/Atalhos.md",
+    "0 - Estudos Java Rasmoo/6 - Estrutura de Repetição.md",
+    "0 - Estudos Java Rasmoo/5 - Caracteres.md",
+    "0 - Estudos Java Rasmoo/4 - Tipo Booleano.md",
+    "Aula 2 - Front-end Design Engineering/Material de Apoio.md",
+    "Aula 2 - Front-end Design Engineering/Git e GitHub/Como inicializar um repositório.md",
+    "Aula 2 - Front-end Design Engineering/Git e GitHub",
+    "Aula 2 - Front-end Design Engineering/Sem título.md",
+    "Aula 2 - Front-end Design Engineering",
+    "Aula 1 Domain Driven Design using Java",
+    "0 - Estudos Java Rasmoo",
+    "Operadores.md",
+    "0 - Estudos Java Rasmoo/3 - Números Flutuantes.md",
+    "0 - Estudos Java Rasmoo/2 - Variáveis numéricas = Números inteiros.md",
+    "0 - Estudos Java Rasmoo/1 - Escopo Main.md",
+    "Atalhos Intellij",
+    "Welcome.md"
+  ]
+}
